@@ -1,0 +1,9 @@
+11:00:03.341 [TestNG-tests-2] INFO  resources.Base - Driver has been initiated
+11:00:30.013 [TestNG-tests-2] INFO  resources.Base - Username - private@spotter.com and password - passwordPrivate are used in this TC
+11:00:30.645 [TestNG-tests-2] INFO  resources.Base - A user is on the Login page
+11:00:30.732 [TestNG-tests-3] INFO  resources.Base - Driver has been initiated and an url is opened
+11:00:31.765 [TestNG-tests-1] INFO  resources.Base - Driver has been initiated and an url is opened
+11:00:33.235 [TestNG-tests-1] INFO  resources.Base - Headline h2 is verified
+11:00:33.561 [TestNG-tests-1] INFO  resources.Base - Navigation bar is displayed
+11:00:57.290 [TestNG-tests-2] INFO  resources.Base - Username - enterprise@spotter.com and password - passwordEnterprise are used in this TC
+11:00:57.766 [TestNG-tests-2] INFO  resources.Base - A user is on the Login page

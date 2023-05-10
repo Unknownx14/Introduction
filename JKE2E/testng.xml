@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests" >
+
+<listeners>
+<listener class-name="Academy.JKE2E.Listeners"></listener>
+</listeners>
+
+  <test thread-count="5" name="Test01">
+    <classes>
+      <class name="Academy.JKE2E.HomePage"/>
+ 
+    </classes>
+  </test> <!-- Test -->
+  
+  <test thread-count="5" name="Test02">
+    <classes>
+
+      <class name="Academy.JKE2E.LoginPage"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test thread-count="5" name="Test03">
+    <classes>
+      <class name="Academy.JKE2E.HomePageFail"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->
